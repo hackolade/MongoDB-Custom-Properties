@@ -1,0 +1,16 @@
+[
+	{
+		"modeName": "Details",
+		"structure": [
+			{
+				"fieldName": "Custom container property",
+				"fieldKeyword": "customContainerProperty",
+				"shouldValidate": false,
+				"fieldTooltip": "comments",
+				"fieldType": "details",
+				"template": "textarea"
+			}
+		],
+		"containerLevelKeys": []
+	}
+]

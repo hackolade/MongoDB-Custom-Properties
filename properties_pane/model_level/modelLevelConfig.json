@@ -1,0 +1,41 @@
+[
+	{
+		"modeName": "Details",
+		"structure": [
+			{
+				"fieldName": "Custom Property",
+				"fieldKeyword": "customDetailsProperty",
+				"shouldValidate": false,
+				"fieldTooltip": "comments",
+				"fieldType": "details",
+				"template": "textarea"
+			}
+		]
+	},
+	{
+		"modeName": "Relationships",
+		"structure": [
+			{
+				"fieldName": "Custom Relationships Property",
+				"fieldKeyword": "customRelationshipsProperty",
+				"shouldValidate": false,
+				"fieldTooltip": "db vendor",
+				"fieldType": "text",
+				"changeAction": "changeCustomRelationshipProperty"
+			}
+		]
+	},
+	{
+		"modeName": "Users",
+		"structure": [
+			{
+				"fieldName": "Custom Users Property",
+				"fieldKeyword": "customUserProperty",
+				"shouldValidate": false,
+				"fieldTooltip": "db vendor",
+				"fieldType": "text",
+				"changeAction": "changeModelUserCustomProperty"
+			}
+		]
+	}
+]

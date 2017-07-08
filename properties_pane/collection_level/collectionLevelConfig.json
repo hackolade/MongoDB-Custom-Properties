@@ -1,0 +1,59 @@
+[
+	{
+		"modeName": "Details",
+		"structure": [
+			{
+				"fieldName": "Custom field",
+				"fieldKeyword": "customField",
+				"shouldValidate": false,
+				"fieldType": "text",
+				"valueType": "string"
+			}
+		]
+	},
+	{
+		"modeName": "Sharding",
+		"structure": [
+			{
+				"fieldName": "Custom sharding property",
+				"fieldKeyword": "customShardingProperty",
+				"shouldValidate": false,
+				"fieldTooltip": "comments",
+				"fieldType": "details",
+				"template": "textarea",
+				"valueType": "string",
+				"changeAction": "changeShardingProperty"
+			}
+		]
+	},
+	{
+		"modeName": "Users",
+		"structure": [
+			{
+				"fieldName": "Custom user property",
+				"fieldKeyword": "customUserProperty",
+				"shouldValidate": false,
+				"fieldTooltip": "comments",
+				"fieldType": "details",
+				"template": "textarea",
+				"valueType": "string",
+				"changeAction": "changeCollectionUsersProperties"
+			}
+		]
+	},
+	{
+		"modeName": "Indexes",
+		"structure": [
+			{
+				"fieldName": "Custom index property",
+				"fieldKeyword": "customIndexProperty",
+				"shouldValidate": false,
+				"fieldTooltip": "comments",
+				"fieldType": "details",
+				"template": "textarea",
+				"valueType": "string",
+				"changeAction": "changeIndexProperty"
+			}
+		]
+	}
+]

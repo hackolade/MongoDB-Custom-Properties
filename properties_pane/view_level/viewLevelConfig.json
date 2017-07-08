@@ -1,0 +1,23 @@
+[
+	{
+		"modeName": "Details",
+		"structure": [
+			{
+				"fieldName": "Comments",
+				"fieldKeyword": "comments",
+				"shouldValidate": false,
+				"fieldTooltip": "comments",
+				"fieldType": "details",
+				"template": "textarea"
+			},
+			{
+				"fieldName": "Баклан",
+				"fieldKeyword": "comments",
+				"shouldValidate": false,
+				"fieldTooltip": "comments",
+				"fieldType": "details",
+				"template": "textarea"
+			}
+		]
+	}
+]
