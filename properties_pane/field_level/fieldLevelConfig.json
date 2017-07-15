@@ -2,13 +2,13 @@
 	"modeName": "JsonDetails",
 	"structure": {
 		"string": [
-			"name",
-			"schemaId",
-			"type",
-			"description",
+/*		this is a cooment
+second line
+*/
+
 			{
 				"fieldName": "EIC",
-				"fieldKeyword": "eic",
+				"fieldKeyword": "eic", //tralalalalere
 				"shouldValidate": false,
 				"fieldTooltip": "Security data classification values to store information",
 				"fieldType": "select",
@@ -32,21 +32,7 @@
 				"fieldTooltip": "Payment Card Identifier",
 				"shouldValidate": false,
 				"fieldType": "checkbox"
-			},
-			"dependencies",
-			"required",
-			"primaryKey",
-			"foreignCollection",
-			"foreignField",
-			"relationshipType",
-			"default",
-			"minLength",
-			"maxLength",
-			"pattern",
-			"format",
-			"enum",
-			"sample",
-			"comments"
+			}
 			]
 	}
 }
