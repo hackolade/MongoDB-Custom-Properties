@@ -12,21 +12,21 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">To enable the custom properties capability, you first need to download a plugin for each database target for which you wish to add properties.  To do so, go to Help > DB Target Plugin Manager</span>
 
-![](lib/"Plugin - manager menu.png")
+![](lib/Plugin-managermenu.png)
 
 <span class="rvts6">  
 </span>
 
 <span class="rvts6">You may choose which plugin to install on your computer.</span>
 
-![](lib/"Plugin - manager available custom props.png")
+![](lib/Plugin-manageravailablecustomprops.png)
 
 <span class="rvts6">  
 </span>
 
 <span class="rvts6">This will result in the plugin appearing in the Installed tab of the plugin manager.</span>
 
-![](lib/"Plugin - Manager installed custom props.png")
+![](lib/Plugin-Managerinstalledcustomprops.png)
 
 <span class="rvts6">  
 </span>
@@ -35,14 +35,14 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">You are now ready to add custom properties via editing of configuration files.  The plugin configurations files can be found by going to Help > Show plugin directory:</span>
 
-![](lib/Plugin - Show plugin directory.png)
+![](lib/Plugin-Showplugindirectory.png)
 
 <span class="rvts6">  
 </span>
 
 <span class="rvts6">For each custom properties plugin, you will find the a directory structure similar to this one:</span>
 
-![](lib/"Plugin - Custom Prop - directory structure.png")
+![](lib/Plugin-CustomProp-directorystructure.png")
 
 <span class="rvts18">Notes:</span><span class="rvts6"></span>
 
@@ -78,19 +78,19 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">- MongoDB model lower tab:</span>
 
-![](lib/"MongoDB model lower tab.png")
+![](lib/MongoDBmodellowertab.png)
 
 <span class="rvts6">- MongoDB dbs lower tab:</span>
 
-![](lib/"MongoDB dbs lower tab.png")
+![](lib/MongoDBdbslowertab.png)
 
 <span class="rvts6">- MongoDB collection lower tab:</span>
 
-![](lib/"MongoDB collection lower tab.png")
+![](lib/MongoDBcollectionlowertab.png)
 
 <span class="rvts6">- MongoDB field lower tab:</span>
 
-![](lib/"MongoDB field lower tab.png")
+![](lib/MongoDBfieldlowertab.png)
 
 <span class="rvts6">  
 </span>
@@ -104,7 +104,7 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">The following controls are possible for user-defined properties:</span>
 
-![](lib/"Plugin - possible property types.png")
+![](lib/Plugin-possiblepropertytypes.png)
 
 *   <span class="rvts6">simple text: one line of text</span>
 *   <span class="rvts6">text area: popup for multi-line text entry</span>
@@ -121,11 +121,11 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">Examples are provided in the comments section of each config file.  Here's an overview of the schema:</span>
 
-![](lib/"Plugin - property schema.png")
+![](lib/Plugin-propertyschema.png)
 
 <span class="rvts6">Here's another view, consolidated:</span>
 
-![](lib/"Plugin - custom props consolidated schema.png")
+![](lib/Plugin-custompropsconsolidatedschema.png)
 
 <span class="rvts6">- propertyName: mandatory, this is the property label that will appear in the Property Pane</span>
 
