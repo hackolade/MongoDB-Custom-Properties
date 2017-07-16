@@ -42,7 +42,7 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">For each custom properties plugin, you will find the a directory structure similar to this one:</span>
 
-![](lib/Plugin-CustomProp-directorystructure.png")
+![](lib/Plugin-CustomPropdirectorystructure.png")
 
 <span class="rvts18">Notes:</span><span class="rvts6"></span>
 
@@ -145,12 +145,6 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">  
 </span>
-
-</div>
-
-<div id="topic_footer">
-
-<div id="topic_footer_content">Copyright © 2016-2017 by IntegrIT S.A. (dba Hackolade) All Rights Reserved.</div>
 
 </div>
 
