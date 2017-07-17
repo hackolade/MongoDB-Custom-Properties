@@ -146,6 +146,26 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 <span class="rvts6">  
 </span>
 
+
+## <span class="rvts0"><span class="rvts16">7) Share customization with team members</span></span>
+
+<span class="rvts6">After making, saving and testing your changes, you should share them with everyone on your team to insure consistency. This is a 3-step process:</span>
+
+<span class="rvts6">- return to the plugin directory via Help > Show plugin directory, and zip up the whole plugin directory where you made your changes.</span>
+
+<span class="rvts6">- transfer this zip file to each team member using Hackolade</span>
+
+<span class="rvts6">- on each team member's computer, start Hackolade, go to Help > DB target plugin manager, then click the button 'Install from zip file', and choose the zip file file.  </span>
+
+<span class="rvts6">  
+</span>
+
+<span class="rvts6">For the changes to take effect on each computer, it is required to exit Hackolade and restart it.</span>
+
+<span class="rvts6">  
+</span>
+
+
 </div>
 
 </div>
