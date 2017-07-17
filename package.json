@@ -12,6 +12,5 @@
             "target": "MONGODB"
         }
     },
-    "description": "Hackolade plugin for MongoDB models to allow custom properties",
-    "disabled": false
+    "description": "Hackolade plugin for MongoDB models to allow custom properties"
 }
