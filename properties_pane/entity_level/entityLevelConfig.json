@@ -75,8 +75,7 @@ making sure that you maintain a proper JSON format.
 				"propertyTooltip": "comments",
 				"propertyType": "details",
 				"template": "textarea",
-				"valueType": "string",
-				"changeAction": "changeShardingProperty"
+				"valueType": "string"
 			}
 		]
 	},
@@ -90,8 +89,7 @@ making sure that you maintain a proper JSON format.
 				"propertyTooltip": "comments",
 				"propertyType": "details",
 				"template": "textarea",
-				"valueType": "string",
-				"changeAction": "changeCollectionUsersProperties"
+				"valueType": "string"
 			}
 		]
 	},
@@ -105,8 +103,7 @@ making sure that you maintain a proper JSON format.
 				"propertyTooltip": "comments",
 				"propertyType": "details",
 				"template": "textarea",
-				"valueType": "string",
-				"changeAction": "changeIndexProperty"
+				"valueType": "string"
 			}
 		]
 	}

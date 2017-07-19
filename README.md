@@ -48,7 +48,7 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">i) do NOT make any changes to the package.json file!  Only the <object>LevelConfig.json files should be edited according to the specifications below.</span>
 
-<span class="rvts6">ii) It is advised to keep a backup of the files before making changes, so you can revert back in case of errors.</span>
+<span class="rvts6">ii) it is advised to keep a backup of the files before making changes, so you can revert back in case of errors.</span>
 
 <span class="rvts6">iii) it is always necessary to restart the application after having saved changes before you can see these changes relected in the properties pane.</span>
 
@@ -133,9 +133,9 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">- shouldValidate: optional, boolean true/false to define whether to validate the regular expression of the text input [default: false]</span>
 
-<span class="rvts6">- propertyTooltip: optional, in the case of input types textarea and dropdown, it is possible to display a tooltip  defined here</span>
+<span class="rvts6">- propertyTooltip: optional, in the case of input types textarea and select, it is possible to display a tooltip  defined here</span>
 
-<span class="rvts6">- propertyType: mandatory, this is the control definition, with possible values: text, details, select, checkbox</span>
+<span class="rvts6">- propertyType: mandatory, this is the control definition, with possible values: text, details, select (i.e. dropdown), checkbox</span>
 
 <span class="rvts6">- options: optional, this is the array of possible checkbox options</span>
 
@@ -151,11 +151,11 @@ Plugin to allow definition in Hackolade of custom properties for MongoDB target
 
 <span class="rvts6">After making, saving and testing your changes, you should share them with everyone on your team to insure consistency. This is a 3-step process:</span>
 
-<span class="rvts6">- return to the plugin directory via Help > Show plugin directory, and zip up the whole plugin directory where you made your changes.</span>
+<span class="rvts6">- return to the plugin directory via Help > Show plugin directory, and zip up the whole plugin directory where you made your changes;</span>
 
-<span class="rvts6">- transfer this zip file to each team member using Hackolade</span>
+<span class="rvts6">- transfer this zip file to each team member using Hackolade;</span>
 
-<span class="rvts6">- on each team member's computer, start Hackolade, go to Help > DB target plugin manager, then click the button 'Install from zip file', and choose the zip file file.  </span>
+<span class="rvts6">- on each team member's computer, start Hackolade, go to Help > DB target plugin manager, then click the button 'Install from zip file', and choose the zip file file.</span>
 
 <span class="rvts6">  
 </span>

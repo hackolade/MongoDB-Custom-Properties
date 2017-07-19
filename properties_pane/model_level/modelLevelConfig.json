@@ -74,8 +74,7 @@ making sure that you maintain a proper JSON format.
 				"propertyKeyword": "customRelationshipsProperty",
 				"shouldValidate": false,
 				"propertyTooltip": "db vendor",
-				"propertyType": "text",
-				"changeAction": "changeCustomRelationshipProperty"
+				"propertyType": "text"
 			}
 		]
 	},
@@ -87,8 +86,7 @@ making sure that you maintain a proper JSON format.
 				"propertyKeyword": "customUserProperty",
 				"shouldValidate": false,
 				"propertyTooltip": "db vendor",
-				"propertyType": "text",
-				"changeAction": "changeModelUserCustomProperty"
+				"propertyType": "text"
 			}
 		]
 	}
