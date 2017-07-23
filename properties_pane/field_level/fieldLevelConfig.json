@@ -69,6 +69,7 @@ making sure that you maintain a proper JSON format.
 				"propertyTooltip": "Select GDPR privacy classification",
 				"propertyType": "select",
 				"options": [
+					"",
 					"Public",
 					"Sensitive",
 					"Confidential",
