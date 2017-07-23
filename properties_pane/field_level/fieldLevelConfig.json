@@ -57,10 +57,23 @@ making sure that you maintain a proper JSON format.
 	"structure": {
 		"string": [
 			{
-				"propertyName": "Custom field-level property",
-				"propertyKeyword": "simpletextProp",
+				"propertyName": "Privacy-concerned",
+				"propertyKeyword": "privacyConcerned",
 				"shouldValidate": false,
-				"propertyType": "text"
+				"propertyType": "checkbox"
+			},
+			{
+				"propertyName": "GDPR classification",
+				"propertyKeyword": "GDPRClass",
+				"shouldValidate": false,
+				"propertyTooltip": "Select GDPR privacy classification",
+				"propertyType": "select",
+				"options": [
+					"Public",
+					"Sensitive",
+					"Confidential",
+					"Internal"
+				]
 			}
 		]
 	}
