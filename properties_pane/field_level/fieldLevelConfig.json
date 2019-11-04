@@ -55,6 +55,8 @@ making sure that you maintain a proper JSON format.
 {
 	"lowerTab": "JsonDetails",
 	"structure": {
+		"objectId": [
+		],
 		"string": [
 			{
 				"propertyName": "Privacy-concerned",
@@ -76,6 +78,40 @@ making sure that you maintain a proper JSON format.
 					"Internal"
 				]
 			}
+		],
+		"numeric": [
+			{
+				"propertyName": "Privacy-concerned",
+				"propertyKeyword": "privacyConcerned",
+				"shouldValidate": false,
+				"propertyType": "checkbox"
+			}
+		],
+		"boolean": [
+		],
+		"document": [
+		],
+		"array": [
+		],
+		"binary": [
+		],
+		"date": [
+		],
+		"timestamp": [
+		],
+		"null": [
+		],
+		"regex": [
+		],
+		"JavaScript": [
+		],
+		"JavaScript(w/scope)": [
+		],
+		"symbol": [
+		],
+		"minKey": [
+		],
+		"maxKey": [
 		]
 	}
 }
